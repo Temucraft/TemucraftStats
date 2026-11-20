@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffffcc00Temucraft|r Stats
+## Notes: All your stats at once in a panel next to the character window, with tooltips that explain them. /tstats
+## Author: Temucraft
+## Version: 1.0.0
+## SavedVariables: TemucraftStatsDB
+
+TemucraftStats.lua
+Options.lua
